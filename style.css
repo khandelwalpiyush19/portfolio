@@ -286,6 +286,11 @@ section {
 .about-pic {
   border-radius: 2rem;
 }
+.pic-size-1{
+  border: 2px solid red;
+  border-radius: 460px;
+}
+
 
 .arrow {
   position: absolute;
